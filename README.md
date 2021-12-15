@@ -1,1 +1,2 @@
 # odin-recipes
+    In this project I will be creating a website that shows three recipes you can choose from and click to open individually. I will demonstrate understanding of absolute and relative links and the ability to change pages on the same site.
