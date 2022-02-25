@@ -1,0 +1,21 @@
+body {
+    background-color: darkgray;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+button {
+    background-color: grey;
+}
+
+a:link {
+    color: white;
+    font-size: 35px;
+}
+
+a:hover {
+    color: palegreen;
+}
