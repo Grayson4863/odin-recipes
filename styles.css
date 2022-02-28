@@ -5,17 +5,20 @@ body {
 img {
     height: 200px;
     width: auto;
+    border-radius: 15%;
 }
 
-button {
-    background-color: grey;
-}
 
-a:link {
-    color: white;
-    font-size: 35px;
+a:link, a:visited{
+    background-color: gray;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 10%;
 }
 
 a:hover {
-    color: palegreen;
+    color: hotpink;
 }
